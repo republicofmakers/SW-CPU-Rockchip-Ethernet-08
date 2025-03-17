@@ -2,12 +2,14 @@
 
 Here is ethernet speed test for Radxa CM5 RTL8211FS(I)(-VS). 
 
+<img width="817" alt="ethernet cable" src="https://github.com/user-attachments/assets/07195951-1393-4360-a579-677a95f69778" />
+
 Plug in the ethernet cable.
 
 
 ## 1. Enjoy your device
 
-Coming
+<img width="1017" alt="ethernet speed" src="https://github.com/user-attachments/assets/78a678fe-59ec-4d00-bfc5-8d40733d4c0b" />
 
 (Device Speed)
 
